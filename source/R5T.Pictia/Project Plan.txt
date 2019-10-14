@@ -1,4 +1,15 @@
 R5T.Pictia - A codenamed project for a SSH and SFTP functionality library built on SSH.NET.
 
+The Pictia library focuses specifically on providing a connected SFTP or SSH client wrapper.
+
+It includes:
+
+* Connecting to a remote machine.
+
+Is does NOT include:
+
+* File system operations, like create, read, update, delete. See a remote file-system operations library for this functionality (like R5T.Gepidia.Remote).
+
+
 Goals
 
