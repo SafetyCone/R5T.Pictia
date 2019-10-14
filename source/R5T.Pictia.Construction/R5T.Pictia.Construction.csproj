@@ -1,6 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\R5T.AWS.EC2\source\R5T.AWS.EC2\R5T.AWS.EC2.csproj" />
     <ProjectReference Include="..\R5T.Pictia\R5T.Pictia.csproj" />
   </ItemGroup>
 
