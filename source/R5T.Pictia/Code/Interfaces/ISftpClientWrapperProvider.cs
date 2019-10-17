@@ -8,6 +8,6 @@ namespace R5T.Pictia
     /// </summary>
     public interface ISftpClientWrapperProvider
     {
-        SftpClientWrapper Provide();
+        SftpClientWrapper GetSftpClientWrapper(bool connected = true);
     }
 }
