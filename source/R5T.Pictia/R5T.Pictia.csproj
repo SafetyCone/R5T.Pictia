@@ -7,7 +7,4 @@
   <ItemGroup>
     <PackageReference Include="SSH.NET" Version="2016.1.0" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Code\Extensions\" />
-  </ItemGroup>
 </Project>
