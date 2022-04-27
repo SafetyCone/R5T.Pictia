@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 
 using Renci.SshNet;
 using Renci.SshNet.Sftp;
-
-using R5T.Magyar.IO;
 
 
 namespace R5T.Pictia.Extensions
